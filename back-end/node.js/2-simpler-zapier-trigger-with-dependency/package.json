@@ -1,0 +1,15 @@
+{
+  "name": "2-simpler-zapier-trigger-with-dependency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trigger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sébastien Vercammen",
+  "license": "The Unlicense",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
